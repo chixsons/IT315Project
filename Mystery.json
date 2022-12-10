@@ -1,0 +1,9 @@
+{
+  "Books":
+  [
+    {"BookTitle":"Cain's Jawbone","BookAuthor":"Edward Powys Mathers","BookGenre":"Mystery","BookPrice":"$11.99","BookSynopsis":"Six murders. One hundred pages. Millions of possible combinations… but only one is correct. Can you solve Torquemada’s murder mystery?","BookSite":"https://www.barnesandnoble.com/w/cains-jawbone-edward-powys-mathers/1139186209?ean=9781800180796","BookImage":"jawbone.jp2"},
+    {"BookTitle":"Murder in Georgetown","BookAuthor":"Margaret Truman","BookGenre":"Mystery","BookPrice":"$7.99","BookSynopsis":"The death of a Senator's daughter leads an intrepid reporter to uncover dangerous political secrets, in this seventh book in Margaret Truman's nationally bestselling Capital Crimes series.","BookSite":"https://www.barnesandnoble.com/w/murder-in-georgetown-margaret-truman/1023673975?ean=9780062391780","BookImage":"georgetown.jp2"},
+    {"BookTitle":"The Bullet That Missed","BookAuthor":"Richard Osman","BookGenre":"Mystery","BookPrice":"$23.99","BookSynopsis":"We’ve been big fans of Richard Osman since the first book in his Thursday Murder Club series landed. It has been our joy and surprise to get an annual follow up each year. The Bullet That Missed is the third book in the series, and delight, mystery and amateur crime solving abounds in the Coopers Chase retirement community. If we could only be part of ONE club, it would be the Thursday Murder Club. Someone please give us the secret handshake. In the meantime, we have book three.","BookSite":"https://www.barnesandnoble.com/w/the-bullet-that-missed-richard-osman/1141293753?ean=9780593299395","BookImage":"bullet.jp2"}
+    ],
+  "Status":"OK"
+}
