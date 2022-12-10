@@ -1,0 +1,9 @@
+{
+  "Books":
+  [
+    {"BookTitle":"It Starts with Us: A Novel","BookAuthor":"Colleen Hoover","BookGenre":"Romance","BookPrice":"$13.99","BookSynopsis":"Before It Ends with Us, it started with Atlas. Colleen Hoover tells fan favorite Atlas’s side of the story and shares what comes next in this long-anticipated sequel to the “glorious and touching” (USA TODAY) #1 New York Times bestseller It Ends with Us.","BookSite":"https://www.barnesandnoble.com/w/it-starts-with-us-colleen-hoover/1140993653?ean=9781668001226","BookImage":"starts.jp2"},
+    {"BookTitle":"Hook, Line, and Sinker","BookAuthor":"Tessa Bailey","BookGenre":"Romance","BookPrice":"$12.99","BookSynopsis":"This anticipated spin-off to Tessa Bailey’s bestselling It Happened One Summer follows the not-so-leading lady Hannah Bellinger as she navigates her situationship with charismatic fisherman Fox Thornton. The will-they-won’t-they aspect to this rom-com is perfect for fans of friends to lovers.","BookSite":"https://www.barnesandnoble.com/w/hook-line-and-sinker-helen-bailey/1107765303?ean=9780063045699","BookImage":"hook.jp2"},
+    {"BookTitle":"A Light in the Flame","BookAuthor":"Jennifer L. Armentrout","BookGenre":"Romance","BookPrice":"$26.99","BookSynopsis":"What was started in A Shadow in the Ember ignites in Jennifer Armentrout’s next Flesh and Fire series title. Get as close as you would like. While the book itself won’t burn, we can’t vouch for the read. And we mean that in a good way. Have fun!","BookSite":"https://www.barnesandnoble.com/w/a-light-in-the-flame-jennifer-l-armentrout/1141400358?ean=9781957568201","BookImage":"flame.jp2"}
+    ],
+  "Status":"OK"
+}
