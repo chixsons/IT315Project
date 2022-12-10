@@ -1,0 +1,9 @@
+{
+  "Books":
+  [
+    {"BookTitle":"Weird Texas","BookAuthor":"Mark Sceurman","BookGenre":"Travel","BookPrice":"$16.95","BookSynopsis":"Your Travel Guide to Texas's Local Legends and Best Kept Secrets","BookSite":"https://www.barnesandnoble.com/w/weird-texas-wesley-treat/1112159077?ean=9781402766879","BookImage":"texas.jp2"},
+    {"BookTitle":"World Travel: An Irreverent Guide","BookAuthor":"Anthony Bourdain","BookGenre":"Travel","BookPrice":"$25.99","BookSynopsis":"A guide to some of the world’s most fascinating places, as seen and experienced by writer, television host, and relentlessly curious traveler Anthony Bourdain","BookSite":"https://www.barnesandnoble.com/w/world-travel-anthony-bourdain/1136013711?ean=9780062802798","BookImage":"bourdain.jp2"},
+    {"BookTitle":"Rick Steves Greece: Athens & the Peloponnese","BookAuthor":"Rick Steves","BookGenre":"Travel","BookPrice":"$23.99","BookSynopsis":"Walk in the steps of Socrates, test the acoustics of the amphitheater of Epidavros, and set sail for Santorini: with Rick Steves, Greece is yours to explore! Inside","BookSite":"https://www.barnesandnoble.com/w/rick-steves-greece-rick-steves/1101732042?ean=9781641712309","BookImage":"greece.jp2"}
+      ],
+  "Status":"OK"
+}
